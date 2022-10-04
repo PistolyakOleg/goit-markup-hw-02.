@@ -96,6 +96,7 @@ body {
   line-height: 1.88;
   letter-spacing: 0.06em;
   cursor: pointer;
+  font-family: inherit;
 }
 .button-hero:hover,
 .button-hero:focus {
@@ -109,7 +110,6 @@ body {
   text-transform: uppercase;
 }
 .section-benefits p {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
 }
@@ -130,7 +130,6 @@ body {
   line-height: 1.19;
 }
 .section-team p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
 }
@@ -149,7 +148,7 @@ body {
 }
 .whitetext {
   color: var(--white-text-color);
-  font-weight: 400;
+
   font-size: 14px;
   line-height: 1.71;
   font-style: normal;
@@ -160,7 +159,7 @@ body {
 }
 .contacts-footer .text {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 400;
+
   font-size: 14px;
   line-height: 1.71;
   font-style: normal;
@@ -179,6 +178,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
+  font-family: inherit;
 }
 .button-filter:hover,
 .button-filter:focus {
@@ -194,7 +194,6 @@ body {
   color: var(--primary-text-color);
 }
 .section-portfolio p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
 }
